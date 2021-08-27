@@ -59,7 +59,7 @@ int main()
 		cout << endl << "Do you want to do calculate again? (Y = Yes  & N = No)" << endl;
 		cin >> answer;
 	}
-	while(answer == 'y' || 'Y');
+	while(answer == 'Y');
   
 	system("PAUSE");
 	return 0;
